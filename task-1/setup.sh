@@ -8,7 +8,7 @@ mkdir resources
 touch settings.conf
 mkdir src
 cd resources
-touch family picture.jpg
+touch "family picture.jpg"
 touch icon.png
 touch logo.png
 cd ..
