@@ -17,7 +17,6 @@ mkdir database
 mkdir profile
 touch program.java
 cd ..
-git status
 git add .
 git commit -m "Initial commit"
 git push
