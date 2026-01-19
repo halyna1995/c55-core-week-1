@@ -41,7 +41,6 @@ mv program.java program.js
 echo "console.log('JavaScript works!');" > program.js
 node program.js
 cd ..
-git status
 git add .
 git commit -m "rename program.java to program.js , add log line to program.js"
 git push
