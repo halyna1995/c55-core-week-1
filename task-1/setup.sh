@@ -1,4 +1,4 @@
-# Write your code here
+#!/bin/bash
 echo "Creating project..."
 mkdir project
 cd project
