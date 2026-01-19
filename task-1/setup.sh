@@ -30,7 +30,6 @@ cd ..
 cd resources
 rm "family picture.jpg"
 cd ..
-git status
 git add .
 git commit -m "write welcome text to README, remove profile directory , remove family_picture.jpg"
 git push
